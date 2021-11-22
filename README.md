@@ -1,13 +1,17 @@
-## Welcome!! I'm Thamires Freitas
+## Welcome!! 
 
-💻I'm learning HTML, CSS and JS!
-I'm from Brazil!
-I'm 23 years old!
-📖I'm studying administration at Federal University of Amazonas!
-✨2022 Goals: Find a new job as a Frond-end Developer!
+I'm Thamires Freitas, I'm 23 years old!
 
-🙏Thanks for visiting.
+  •💻I'm learning HTML, CSS and JS!
+  •📖I'm studying administration at Federal University of Amazonas!
+  •✨2022 Goals: Find a new job as a Frond-end Developer!
+
+
+🙏Thanks for visiting!
+
 🤗Enjoy it!!
+
+##
 
 <div align="center">
   <a href="https://github.com/bythami">
