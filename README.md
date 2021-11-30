@@ -1,11 +1,11 @@
 ## Welcome!! 
 
 I'm Thamires Freitas, I'm 23 years old!
-
-  •💻I'm learning HTML, CSS and JS!
-  •📖I'm studying administration at Federal University of Amazonas!
-  •✨2022 Goals: Find a new job as a Frond-end Developer!
-
+<ul>
+  <li>💻I'm learning HTML, CSS and JS!</li>
+  <li>📖I'm studying administration at Federal University of Amazonas!</li>
+  <li>✨2022 Goals: Find a new job as a Frond-end Developer!</li>
+</ul>
 
 🙏Thanks for visiting!
 
