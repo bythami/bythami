@@ -40,7 +40,7 @@ I'm Thamires Freitas, I'm 23 years old!
    <a href="https://www.instagram.com/bythami/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </div>
  
-  ## Total visits on my profile :detective: <br>
+ <h4>Total visits on my profile :detective:</h4>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/bythami/count.svg" />
  </p>
