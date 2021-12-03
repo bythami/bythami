@@ -2,9 +2,9 @@
 
 I'm Thamires Freitas, I'm 23 years old!
 <ul>
-  <li>💻I'm learning HTML, CSS and JS!</li>
+  <li>💻I'm a student of the CodeClub!</li>
   <li>📖I'm studying administration at Federal University of Amazonas!</li>
-  <li>✨2022 Goals: Find a new job as a Frond-end Developer!</li>
+  <li>✨2022 Goals: Find a job as a Frond-end Developer!</li>
 </ul>
 
 🙏Thanks for visiting!
@@ -19,14 +19,18 @@ I'm Thamires Freitas, I'm 23 years old!
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bythami&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Bythami-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bythami-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bythami-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
-  
   ##
+  
+  <h4> Knowledge I have: </h4>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>  
+<h4> Next to be studied: </h4>
+   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
  
+  ##
+  <h4>Please feel free to contact me:</h4>
  <div>
     <a href="https://www.linkedin.com/in/thamires-freitas-561086213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://www.instagram.com/bythami/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
