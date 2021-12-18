@@ -23,7 +23,7 @@ I'm Thamires Freitas, I'm 23 years old!
 </div>
   
   ##
-  <img src="https://media.giphy.com/media/ULUQvQ0LeGKZvvxk7Y/giphy.gif" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador">
+  <img src="https://media.giphy.com/media/ULUQvQ0LeGKZvvxk7Y/giphy.gif" min-width="200px" max-width="200px" width="200px" align="right" alt="motivation">
   <h4> Knowledge I have: </h4>
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code> 
