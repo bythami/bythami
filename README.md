@@ -2,7 +2,7 @@
 
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
   
-I'm Thamires Freitas, I'm 24 years old!
+I'm Thamires Freitas, I'm 27 years old!
   
 <ul>
   <li>💻I'm a student of the CodeClub!</li>
