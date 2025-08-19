@@ -6,7 +6,6 @@ I'm Thamires Freitas, I'm 24 years old!
   
 <ul>
   <li>💻I'm a student of the CodeClub!</li>
-  <li>✨2022 Goals: Find a job as a Frond-end Developer!</li>
 </ul>
 
 🙏Thanks for visiting!
